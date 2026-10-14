@@ -1,16 +1,30 @@
-# React + Vite
+# 🎯 Clickzy – Interactive Counter & Random Number Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Clickzy** is a fun, interactive React application that combines a smart counter with a random number generator in a colorful, user-friendly interface. Built with React and Vite, it demonstrates state management, event handling, and dynamic UI updates in a simple yet engaging way.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🔢 **Smart Counter** – Increase, decrease, and reset the counter with ease.
+- 🛡️ **Value Protection** – Counter stays within the range of 0 to 100.
+- 🎲 **Random Number Generator** – Generate random numbers between 1 and 100.
+- 📜 **Recent Number History** – Keep track of the last 5 generated numbers.
+- 🧹 **Clear History** – Clear the generated number history and displayed result.
+- 🎨 **Attractive UI** – Enjoy a colorful, playful design with smooth interactions.
+- 📱 **Responsive Design** – Works across different screen sizes.
+- ⚛️ **React State Management** – Uses React hooks to update the interface dynamically.
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git & GitHub
 
-## Expanding the ESLint configuration
+## 🔗 Project Links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Live Demo:** https://developer-raadhika.github.io/Clickzy/
+- **GitHub Repository:** https://github.com/developer-raadhika/Clickzy
+
+Clickzy is a hands-on project that showcases the fundamentals of React through interactive features, reusable UI patterns, and a responsive design.
